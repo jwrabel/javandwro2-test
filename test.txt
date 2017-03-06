@@ -5,6 +5,17 @@ AK
 AKA
 
 
+
+Artur
+Kurs
+Java
+
+
+
+Filip
+Maræ
+
+
 hey
 gdzie
 jest 
@@ -31,12 +42,14 @@ Marcin
 MarcinW
 MarcinWw
 
+
 TKUDAS
 Marcin
 MarcinW
 MarcinWw
 
 £ukaszB.
+
 
 JWRABE
 JWRABEL
