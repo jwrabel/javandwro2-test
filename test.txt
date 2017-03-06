@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 
 hey
 gdzie
 jest 
 kiosk
+=======
+TKUDAS
+Marcin
+MarcinW
+MarcinWw
+£ukaszB.
+>>>>>>> 76b1c2a00703b85bad4f23987800a2913687cbf3
 JWRABE
 JWRABEL
 JWRABEL
