@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 £ukaszB.
 t
 e
 s
 t
+=======
+JWRABE
+JWRABEL
+JWRABEL
+>>>>>>> 21cdffe3a98d13e6a8f42fa6001692aa424b1160
