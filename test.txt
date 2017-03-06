@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 hey
 gdzie
 jest 
 kiosk
-=======
-=======
+
 
 Robert
 jestem
@@ -18,25 +16,21 @@ myto
 
 
 krudzka
-xxxx
+
 
 Marcin
 MarcinW
 MarcinWw
 
 
->>>>>>> aab75779605d3acda50f942badaaff20f6c78d7e
 TKUDAS
 Marcin
 MarcinW
 MarcinWw
 
 £ukaszB.
-<<<<<<< HEAD
->>>>>>> 76b1c2a00703b85bad4f23987800a2913687cbf3
-=======
 
->>>>>>> aab75779605d3acda50f942badaaff20f6c78d7e
+
 JWRABE
 JWRABEL
 JWRABEL
